@@ -1,3 +1,7 @@
+body {
+  font-family: "Quicksand", sans-serif;
+}
+
 ul {
   list-style-type: circle;
   list-style-type: square;
@@ -10,5 +14,17 @@ ul {
   padding: 20px;
 
   list-style-image: url(../img/igloo-solid.svg);
+  font-family: "Bruno Ace SC", sans-serif;
 }
- 
+
+h2 i {
+  font-size: 40px;
+}
+
+.fa-solid {
+  color: red;
+}
+
+h2 {
+  color: blueviolet;
+}
